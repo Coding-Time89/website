@@ -171,6 +171,9 @@ contributions:
     author: "dzson"
     url: https://dzson.github.io/FibonacciClock/index.html
     source: https://github.com/dzson/FibonacciClock
----
+  - title : "Analogue Clock"
+    author : " Shaan 8.9 YT"
+    url : https://editor.p5js.org/shaanalt89/present/AAhA5SePl
+
 
 In this coding challenge, I attempt to program a clock in HTML5 canvas with the p5.js library.
